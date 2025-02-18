@@ -5,7 +5,7 @@ string = "This is a string."
 
 number = 5
 
-list = ('magpie', 'blackbird', 'robin', 'crow')
+list = ['magpie', 'blackbird', 'robin', 'crow']
 
 boolean: True
 
